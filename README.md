@@ -1,5 +1,20 @@
 # Cools CPO Zero-Thermal-Budget Bonding
 
+## Strategic relevance to Broadcom CPO
+
+**This architecture targets a value pool that Broadcom can capture directly at the CPO product level.**
+
+- preserve the PIC optical state through EIC–PIC and III–V integration;
+- reduce bonding-induced wavelength shift, trimming, calibration and rework;
+- reserve heaters and TEC capacity for operating heat rather than assembly damage;
+- improve dense optical-engine yield and package-level power efficiency; and
+- support 3D heterogeneous integration and potentially replaceable optical-engine architectures.
+
+This is not a proposal to sell a small bonding recipe. It is patent-protected architecture for controlling where the thermal event occurs inside the CPO assembly.
+
+**Paired operating architecture:** [Micro Thermal Clutch for TOPS heat/cool path switching](https://github.com/jhcho9494/Cools_Thermally_Active_Photonic_Substrate)
+
+
 ## Bond the EIC to the PIC without heating the photonic device body
 
 > **Conventional bonding heats the photonic IC and corrects the resulting wavelength drift afterward.**  
